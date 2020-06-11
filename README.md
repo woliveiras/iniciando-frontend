@@ -18,7 +18,11 @@
 - Tags comumente utilizadas
 - Classes e IDs
 - Links (**a** e **link**)
-
+- Formulários
+  - Input
+  - Checkbox
+  - Radio Button
+  - Button
 
 ## CSS
 
