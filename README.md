@@ -6,7 +6,7 @@
 
 ## Projeto que será desenvolvido
 
-- https://admiring-curie-9af955.netlify.app/
+- [Nosso portfólio](https://admiring-curie-9af955.netlify.app)
 
 ## HTML
 
