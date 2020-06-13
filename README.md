@@ -1,6 +1,9 @@
 # Iniciando em Frontend 🚀
 
 ## Ambiente
+
+- Criação da conta no GitHub
+- Instalação do Git
 - Instalação VSCode
 - Extensões VSCode
 
